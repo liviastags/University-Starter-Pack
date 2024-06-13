@@ -33,7 +33,10 @@
 
 <hr>
 <h1>TANGKAPAN LAYAR PENTING PRODUK</h1>
+
    ![image](https://github.com/liviastags/University-Starter-Pack/assets/142877005/5ad85fe3-e716-458e-915a-5872be4ca946)
+   
    ![image](https://github.com/liviastags/University-Starter-Pack/assets/142877005/c80f595a-8f3a-4e93-83db-dc871f74e03a)
+   
    ![image](https://github.com/liviastags/University-Starter-Pack/assets/142877005/fceaddc3-e066-44fb-93b7-a4bc7600f495)
     
