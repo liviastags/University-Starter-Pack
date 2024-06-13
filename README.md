@@ -32,8 +32,8 @@
 <hr>
 <h1>TANGKAPAN LAYAR PENTING PRODUK</h1>
 <h1>Landing Page</h1>
-    <img src="assets/public/storage/images/landingpage.png" alt="Landing Page">
-    <img src="assets/public/storage/images/login.png" alt="Halaman Login">
-    <img src="assets/public/storage/images/dashboard.png" alt="Halaman Dashboard">
-    <img src="assets/public/storage/images/peta.png" alt="Halaman Peta">
+    <img src="pgwl/public/storage/images/landingpage.png" alt="Landing Page">
+    <img src="pgwl/public/storage/images/login.png" alt="Halaman Login">
+    <img src="pgwl/public/storage/images/dashboard.png" alt="Halaman Dashboard">
+    <img src="pgwl/public/storage/images/peta.png" alt="Halaman Peta">
     
