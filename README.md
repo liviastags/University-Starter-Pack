@@ -20,6 +20,8 @@
         <li>Bootstrap</li>
         <li>Leaflet.JS</li>
         <li>Qgis</li>
+        <li>Postgre</li>
+        <li>PostGIS</li>
     </ul>
 
 <hr>
@@ -32,8 +34,8 @@
 <hr>
 <h1>TANGKAPAN LAYAR PENTING PRODUK</h1>
 <h1>Landing Page</h1>
-    <img src="pgwl/public/storage/images/landingpage.png" alt="Landing Page">
-    <img src="pgwl/public/storage/images/login.png" alt="Halaman Login">
-    <img src="pgwl/public/storage/images/dashboard.png" alt="Halaman Dashboard">
-    <img src="pgwl/public/storage/images/peta.png" alt="Halaman Peta">
+    <img src="![image](https://github.com/liviastags/University-Starter-Pack/assets/142877005/d10f71e3-019c-469a-bd29-dcc3d14aa28e)" alt="Landing Page">
+    <img src="![image](https://github.com/liviastags/University-Starter-Pack/assets/142877005/5ad85fe3-e716-458e-915a-5872be4ca946)" alt="Halaman Login">
+    <img src="![image](https://github.com/liviastags/University-Starter-Pack/assets/142877005/c80f595a-8f3a-4e93-83db-dc871f74e03a)" alt="Halaman Dashboard">
+    <img src="![image](https://github.com/liviastags/University-Starter-Pack/assets/142877005/fceaddc3-e066-44fb-93b7-a4bc7600f495)" alt="Halaman Peta">
     
