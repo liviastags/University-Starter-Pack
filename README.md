@@ -1,5 +1,5 @@
 <hr>
-<h1>NAMA PROJEct</h1>
+<h1>NAMA PROJECT</h1>
 <p>University Starter Pack
     </p>
 
@@ -34,7 +34,7 @@
 <hr>
 <h1>TANGKAPAN LAYAR PENTING PRODUK</h1>
 <h1>Landing Page</h1>
-    <img src="![image](https://github.com/liviastags/University-Starter-Pack/assets/142877005/d10f71e3-019c-469a-bd29-dcc3d14aa28e)" alt="Landing Page">
+    ![image](https://github.com/liviastags/University-Starter-Pack/assets/142877005/d10f71e3-019c-469a-bd29-dcc3d14aa28e)
     <img src="![image](https://github.com/liviastags/University-Starter-Pack/assets/142877005/5ad85fe3-e716-458e-915a-5872be4ca946)" alt="Halaman Login">
     <img src="![image](https://github.com/liviastags/University-Starter-Pack/assets/142877005/c80f595a-8f3a-4e93-83db-dc871f74e03a)" alt="Halaman Dashboard">
     <img src="![image](https://github.com/liviastags/University-Starter-Pack/assets/142877005/fceaddc3-e066-44fb-93b7-a4bc7600f495)" alt="Halaman Peta">
