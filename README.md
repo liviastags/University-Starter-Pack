@@ -15,6 +15,7 @@
         <li>HTML</li>
         <li>CSS</li>
         <li>PHP</li>
+        <li>Laravel</li>
         <li>GeoServer</li>
         <li>Dbeaver</li>
         <li>Bootstrap</li>
